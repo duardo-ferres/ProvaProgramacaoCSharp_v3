@@ -1,0 +1,1 @@
+Parte do desafio responsavel por responder as requisições de POST e GET de uma API REST que adiciona e retorna os dados da moeda localizada na fila. Esta fila alocada em u arquivo simples de texto no formato JSON, mas poderia ser adicionada a um banco de dados ou até mesmo utilizado um ORM para esta interface

@@ -1,0 +1,15 @@
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/bin/Debug/netcoreapp6.0/Output
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/bin/Debug/netcoreapp6.0/Output.deps.json
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/bin/Debug/netcoreapp6.0/Output.runtimeconfig.json
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/bin/Debug/netcoreapp6.0/Output.dll
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/bin/Debug/netcoreapp6.0/Output.pdb
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.csproj.AssemblyReference.cache
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.AssemblyInfoInputs.cache
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.AssemblyInfo.cs
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.csproj.CoreCompileInputs.cache
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.dll
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/refint/Output.dll
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.pdb
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/Output.genruntimeconfig.cache
+/home/eduardo/Projetos/Teste - backend - CSharp_v3/Teste - backend - CSharp_v3/Desafio 1/obj/Debug/netcoreapp6.0/ref/Output.dll

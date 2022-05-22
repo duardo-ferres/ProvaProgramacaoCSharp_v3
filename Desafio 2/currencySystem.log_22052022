@@ -1,0 +1,45 @@
+22/05/2022 17:31:12 - Iniciando novo ciclo
+22/05/2022 17:31:12 - Fazendo Requisição
+22/05/2022 17:31:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:31:12 - Recuperando dados soble Moedas
+22/05/2022 17:31:13 - Analizando cotações para a data referida
+22/05/2022 17:31:14 - Escrevendo arquivo de saida com moedas e cotações
+22/05/2022 17:31:14 - Processamento Finalizado com Sucesso
+22/05/2022 17:31:14 - Tempo médio do processamento -  00:01
+22/05/2022 17:33:12 - Aguardando requisição vigente
+22/05/2022 17:33:12 - Iniciando novo ciclo
+22/05/2022 17:33:12 - Fazendo Requisição
+22/05/2022 17:33:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:33:12 - Recuperando dados soble Moedas
+22/05/2022 17:33:13 - Analizando cotações para a data referida
+22/05/2022 17:33:36 - Escrevendo arquivo de saida com moedas e cotações
+22/05/2022 17:33:42 - Processamento Finalizado com Sucesso
+22/05/2022 17:33:42 - Tempo médio do processamento -  00:29
+22/05/2022 17:35:12 - Aguardando requisição vigente
+22/05/2022 17:35:12 - Iniciando novo ciclo
+22/05/2022 17:35:12 - Fazendo Requisição
+22/05/2022 17:35:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:35:12 - Recuperando dados soble Moedas
+22/05/2022 17:35:13 - Analizando cotações para a data referida
+22/05/2022 17:35:34 - Escrevendo arquivo de saida com moedas e cotações
+22/05/2022 17:35:40 - Processamento Finalizado com Sucesso
+22/05/2022 17:35:40 - Tempo médio do processamento -  00:28
+22/05/2022 17:37:12 - Aguardando requisição vigente
+22/05/2022 17:37:12 - Iniciando novo ciclo
+22/05/2022 17:37:12 - Fazendo Requisição
+22/05/2022 17:37:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:37:12 - Recuperando dados soble Moedas
+22/05/2022 17:37:13 - Analizando cotações para a data referida
+22/05/2022 17:37:13 - Escrevendo arquivo de saida com moedas e cotações
+22/05/2022 17:37:13 - Processamento Finalizado com Sucesso
+22/05/2022 17:37:13 - Tempo médio do processamento -  00:01
+22/05/2022 17:39:12 - Aguardando requisição vigente
+22/05/2022 17:39:12 - Iniciando novo ciclo
+22/05/2022 17:39:12 - Fazendo Requisição
+22/05/2022 17:39:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:39:12 - A requisição retornou dados inválidos - Finalizando Processamento com Codigo 0
+22/05/2022 17:41:12 - Aguardando requisição vigente
+22/05/2022 17:41:12 - Iniciando novo ciclo
+22/05/2022 17:41:12 - Fazendo Requisição
+22/05/2022 17:41:12 - Requisição finalizada - Iniciando Processamento de Dados
+22/05/2022 17:41:12 - A requisição retornou dados inválidos - Finalizando Processamento com Codigo 0

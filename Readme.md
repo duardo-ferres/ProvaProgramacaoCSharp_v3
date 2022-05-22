@@ -1,0 +1,1 @@
+Projeto referente a uma demonstração de SKIL em C# dotnet Core, com desenvolvimento de uma interface REST API e um consumidor de dados que popula um arquivo CSV com cotações a partir de outros dois CSV's um referente a moedas e outro a cotação por dia
