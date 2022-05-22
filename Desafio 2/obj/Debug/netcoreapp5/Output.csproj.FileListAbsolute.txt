@@ -1,0 +1,13 @@
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.exe
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.deps.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.runtimeconfig.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.runtimeconfig.dev.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.csprojAssemblyReference.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.AssemblyInfoInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.AssemblyInfo.cs
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.csproj.CoreCompileInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5\Output.genruntimeconfig.cache

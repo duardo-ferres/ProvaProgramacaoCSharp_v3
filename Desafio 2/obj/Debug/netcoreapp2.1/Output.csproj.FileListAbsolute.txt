@@ -1,0 +1,4 @@
+F:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp2.1\Output.csprojAssemblyReference.cache
+F:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp2.1\Output.csproj.CoreCompileInputs.cache
+F:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp2.1\Output.AssemblyInfoInputs.cache
+F:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp2.1\Output.AssemblyInfo.cs

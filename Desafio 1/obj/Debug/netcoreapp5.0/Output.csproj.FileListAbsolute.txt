@@ -1,0 +1,26 @@
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.csprojAssemblyReference.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.AssemblyInfoInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.AssemblyInfo.cs
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.csproj.CoreCompileInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.exe
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.deps.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.runtimeconfig.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.runtimeconfig.dev.json
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Output\bin\Debug\netcoreapp5.0\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Output\obj\Debug\netcoreapp5.0\Output.genruntimeconfig.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.exe
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.deps.json
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.runtimeconfig.json
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.runtimeconfig.dev.json
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\bin\Debug\netcoreapp5.0\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.csprojAssemblyReference.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.AssemblyInfoInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.AssemblyInfo.cs
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.csproj.CoreCompileInputs.cache
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.dll
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.pdb
+E:\Eduardo\Teste - backend - CSharp_v3\Desafio 1\obj\Debug\netcoreapp5.0\Output.genruntimeconfig.cache
